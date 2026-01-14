@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(224, 235, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+h1{
+    color: rgb(120, 46, 189);
+    text-align: center;
+}
+p{
+    color: palevioletred;
+    font-size: 18px;
+}
+div{
+    background-color: rgb(252, 247, 242);
+    border-radius: 10px;
+    padding: 20px;
+    margin: 20px;
+}
+.info{
+    color: rgb(45, 76, 255);
+}
+
+#warning{
+    color: red;
+}
+p:last-child{
+    color: blueviolet;
+}
